@@ -37,15 +37,15 @@
             <a class="logo" href="<?php echo siteurl($siteid);?>/" title="<?php if(isset($SEO['title']) && !empty($SEO['title'])) { ?><?php echo $SEO['title'];?><?php } ?><?php echo $SEO['site_title'];?>">
 				<img src="<?php echo IMG_PATH;?>v9/logo.png" alt="<?php if(isset($SEO['title']) && !empty($SEO['title'])) { ?><?php echo $SEO['title'];?><?php } ?><?php echo $SEO['site_title'];?>">
 			</a>
-			<tel class="col-xs-hidden" style="font-size:18px;padding:5px;margin-left: 10px;color:white;">4009283968</tel>
-			<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=49e1cb31e8e8254e69addb9e9ca09791&action=category&catid=0&num=9&siteid=%24siteid&order=listorder+ASC\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'category')) {$data = $content_tag->category(array('catid'=>'0','siteid'=>$siteid,'order'=>'listorder ASC','limit'=>'9',));}?>
+			<tel class="col-xs-hidden" style="font-size:18px;padding:5px;margin-left: 10px;color:white;color:#C09940;">4009283968</tel>
+			<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=49e1cb31e8e8254e69addb9e9ca09791&action=category&catid=0&num=9&siteid=%24siteid&order=listorder+ASC\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'category')) {$data = $content_tag->category(array('catid'=>'0','siteid'=>$siteid,'order'=>'listorder ASC','limit'=>'9',));}?>
             <ul id="main-menu" class="custom carret">
             	<li class="cat-home"><a class="topmenu" title="<?php echo $SEO['site_title'];?>" href="<?php echo siteurl($siteid);?>">首页</a></li>
 				<?php $n=1;if(is_array($data)) foreach($data AS $r) { ?>
             	<li class="cat-11"><a class="topmenu" href="<?php if($r[modelid]==0 && $r[child]==1) { ?>javascript:;<?php } else { ?><?php echo $r['url'];?><?php } ?>"><?php echo $r['catname'];?></a>
 					<?php if($r[child]==1) { ?>
                 	<ul class="submenu">
-						<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=562eba0525a72e8a95a03bd7c7d4da01&action=category&catid=%24r%5Bcatid%5D&num=15&siteid=%24siteid&order=listorder+ASC&return=data2\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'category')) {$data2 = $content_tag->category(array('catid'=>$r[catid],'siteid'=>$siteid,'order'=>'listorder ASC','limit'=>'15',));}?>
+						<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=562eba0525a72e8a95a03bd7c7d4da01&action=category&catid=%24r%5Bcatid%5D&num=15&siteid=%24siteid&order=listorder+ASC&return=data2\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'category')) {$data2 = $content_tag->category(array('catid'=>$r[catid],'siteid'=>$siteid,'order'=>'listorder ASC','limit'=>'15',));}?>
 						<?php $n=1;if(is_array($data2)) foreach($data2 AS $c2) { ?> 
                     	<li><a href="<?php echo $c2['url'];?>"><?php echo $c2['catname'];?></a></li>
 						<?php $n++;}unset($n); ?>
