@@ -1,0 +1,149 @@
+{template "content","header"}
+<!--main-->
+<aside id="page-header" class="page-header-image page-header-medium" style="background-image:url({IMG_PATH}web/page_banner_002.jpg)">
+	<div class="page-header-inner">
+        <div class="page-header-content">
+            <div class="container">
+            	<h1 class="hide-to-left" style="position: relative; opacity: 1; right: 0px;">{$CATEGORYS[$catid]['catname']}</h1>
+                <p class="hide-to-right lead" style="position: relative; opacity: 1; left: 0px;">{$CATEGORYS[$catid]['description']}</p>
+            </div>
+        </div>
+    </div>
+    <div class="breadcrumbs hide-to-bottom" style="position: relative; opacity: 1; top: 0px;">
+        <div class="container">
+            <ul>
+                <li><a href="{siteurl($siteid)}/" class="home"></a></li>
+                <li><a href="{$CATEGORYS[$catid]['url']}">{$CATEGORYS[$catid]['catname']} </a></li>
+				<li>列表</li>
+			</ul>
+        </div>
+	</div><!-- .breadcrumbs -->
+</aside>
+<div id="page-content" role="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<div id="content">
+					<header class="devider-bottom devider-margin-medium">
+						<h1>{$CATEGORYS[$catid]['catname']}</h1>
+					</header>
+					<section class="posts">
+						{pc:content action="lists" catid="$catid" num="25" order="id DESC" page="$page"}
+						{loop $data $r}
+                        <article class="post post-thumb post-type-text devider-top devider-margin-medium">
+                            <div class="post-heading">
+                                <div class="thumbnail">
+                                    <a class="link" href="{$r[url]}" title="{$r[title]}">
+                                        <img src="{thumb($r[thumb], 320, 180)}" alt="{$r[title]}" title="{$r[title]}">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="post-content">
+                                <div class="title">
+                                    <h2 class="h4"><a href="{$r[url]}" title="{$r[title]}">{$r[title]}</a></h2>
+                                    <p class="meta">
+                                        <span class="meta-date">{date('Y-m-d',$r[inputtime])}</span>
+                                    </p>
+                                </div>
+                                <div class="text">
+                                    <p>{$r[description]} <a href="{$r[url]}">【查看全文】</a></p>
+                                </div>
+                            </div>
+                        </article><!-- .post -->
+						{/loop}
+						{/pc}
+					</section><!-- .posts -->
+					<aside class="pagination devider-top devider-margin-medium animation animation-grow">
+							{$pages}
+					</aside><!-- .pagination -->
+				</div><!-- #content -->
+			</div><!-- .col-md-9 -->
+			<div class="col-md-3" id="sidebar">
+			<script>if(screen.width<750){$('#sidebar').hide();}</script>
+				<!-- SIDEBAR -->
+				<div class="sidebar" id="sidebar-right">
+					{if $CATEGORYS[$top_parentid][child]==1}
+                    <div class="widget devider-margin-medium">
+                        <div class="widget-heading">
+                            <div class="title title-main">
+                                <h5>{$CATEGORYS[$top_parentid][catname]}</h5>
+                            </div>
+                        </div>
+						
+                        <div class="widget-content">
+                            <div class="nav">
+                                <ul>
+									{pc:content action="category" catid="$CATEGORYS[$top_parentid][catid]" num="25" order="id DESC"}
+									{loop $data $r}
+									<li class="cat-7"><a href="{$r[url]}">{$r[catname]}</a></li>
+									{/loop}
+									{/pc}
+                                </ul>
+                            </div><!-- .nav -->
+                        </div>
+                    </div>
+					{/if}
+                    <div class="widget devider-margin-medium animation animation-grow">
+                        <div class="widget-content sidelist">
+                            <div class="tab full-width" data-animation="slide">
+                                <ul class="tab-heading tab-two">
+                                    <li class="current"><h5><a href="javascript:void(0);">热点推荐</a></h5></li>
+                                    <li><h5><a href="javascript:void(0);">最新推荐</a></h5></li>
+                                </ul>
+                                <div class="tab-content">
+                                    <div class="current">
+                                        <section class="posts">
+											{pc:content action="hits" catid="$catid" num="10" order="views DESC" cache="3600"}
+											{loop $data $r}
+                                            <article class="post post-mini post-type-text devider-top devider-margin-medium">
+                                                <div class="post-heading">
+                                                    <div class="thumbnail">
+                                                        <a class="link" href="{$r[url]}" title="{$r[title]}">
+                                                            <span class="btn btn-icon-link"></span>
+                                                            <img src="{thumb($r[thumb], 320, 180)}" alt="{$r[title]}" title="{$r[title]}">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="post-content">
+                                                    <div class="title">
+                                                        <h2 class="h6"><a href="$r[url]}" title="{$r[title]}">{$r[title]}</a></h2>
+                                                    </div>
+                                                </div>
+                                            </article>
+											{/loop}
+											{/pc}
+                                        </section>
+                                    </div>
+                                    <div>
+                                        <section class="posts">
+                                            {pc:content action="hits" catid="$catid" num="10" order="monthviews DESC" cache="3600"}
+											{loop $data $r}
+                                            <article class="post post-mini post-type-text devider-top devider-margin-medium">
+                                                <div class="post-heading">
+                                                    <div class="thumbnail">
+                                                        <a class="link" href="{$r[url]}" title="{$r[title]}">
+                                                            <span class="btn btn-icon-link"></span>
+                                                            <img src="{thumb($r[thumb], 320, 180)}" alt="{$r[title]}" title="{$r[title]}">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="post-content">
+                                                    <div class="title">
+                                                        <h2 class="h6"><a href="$r[url]}" title="{$r[title]}">{$r[title]}</a></h2>
+                                                    </div>
+                                                </div>
+                                            </article>
+											{/loop}
+											{/pc}
+                                        </section>
+                                    </div>
+                                </div><!-- .tab-content -->
+                            </div><!-- .tab -->
+                        </div>
+                    </div>
+				</div><!-- #sidebar -->
+			</div><!-- .col-md-3 -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</div>
+{template "content","footer"}

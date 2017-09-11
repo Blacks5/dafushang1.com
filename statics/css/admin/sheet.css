@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+body{padding:0;margin:0;background:#F4F4F4;}
+a{color:inherit;}
+ul{padding:0;margin:0;list-style:none;}
+
+.pd5{padding:5px;}
+.mt15{ margin-top:15px;}
+.bg0{ background:#FFFFFF;}
+
+
+.top{height:30px; background-color:#333333;width:100%; line-height:30px;color:#FFFFFF;}
+.top span{color:#118FD5;margin-right:10px;font-size:13px;}
+.top ul{padding:0;margin:0; list-style:none;}
+.top ul li{float:left;margin-right:10px;}
+.tel{float:right;}
+
+.logo{height:110px;padding:10px;}
+.search-input{width:80%;float:left;}
+.search-btn{width:20%;float:left;}
+.search-tel{margin-top:10px;color:#EAAD10;}
+.search-tel span{font-size:20px;color:#118FD5;}
+
+.menu{height:50px;background:url(../Images/navbg.jpg);font-size:16px;color:#FFFFFF;}
+.menu-ul{list-style:none;}
+.menu-ul li{float:left;margin-right:15px;line-height:50px;padding:0 15px;position:relative;}
+.menu-ul li ul{position:absolute; left:-50px; top:49px;display:none;z-index:200;}
+.menu-ul li ul li{width:150px;background:url(../Images/son.png); overflow:hidden; text-align:center;}
+.menu-ul li ul li:hover{background-color:#118FD5;}
+.menu-ul li:hover{background:url(../Images/navli.jpg);}
+.menu-ul li:hover ul{display:block;}
+.menu-active{background:url(../Images/navli.jpg);}
+
+.articel-top{margin-top:10px;}
+.article-lb img{min-width:100%;min-height:200px;max-height:200px;}
+.lb-conttent{height:200px;background-color:#F3F1F2;}
+.lb-ul li{height:35px;color:#000000;line-height:35px;}
+.lb-ul li a{height:35px;display:block;margin-left:8px;padding-left:5px;}
+.lb-ul li:hover{background:url(../Images/leftb.png) no-repeat left center;}
+.lb-ul li:hover a{background:#138FD7;}
+
+.icon-body{height:105px;padding:20px;; text-align:center; color:#138FD7; background:#FFFFFF; border-top:1px solid #F4F4F4;border-right:1px solid #F4F4F4;}
+.icon-body:hover{background:#138FD7;}
+.icon-body:hover a{color:#FFFFFF;}
+.icon-body span{font-size:40px;}
+
+.article-body{margin-top:15px;}
+.article-ul li{height:35px;line-height:35px; border-bottom:1px dashed #999;}
+.article-more{ float:right;}
+.article-date{float:right; margin-right:10px;color:#888;}
+
+.tab-body{padding:10px;text-align:center;}
+
+.footer{ background-color:#333333;color:#FFFFFF; text-align:center;}
+.footer-end{ background-color:#1D1D01;height:35px;line-height:35px;font-size:12px;color:#585555;width:100%; text-align:center;}
+
+/* login view
+*/
+.login-body{width:100%;height:100%;position: absolute;top: 0;left:0;background: url(../Images/login_bg.jpg);}
+.login-content{margin-top:20%;}

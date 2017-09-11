@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html lang="zh-CN" class="ie ie8"><![endif]-->
+<!--[if IE 9]><html lang="zh-CN" class="ie ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="zh-CN"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}</title>
+<meta name="keywords" content="{$SEO['keyword']}">
+<meta name="description" content="{$SEO['description']}">
+<link rel="stylesheet" href="{CSS_PATH}web/bootstrap.css" />
+<link rel="stylesheet" href="{CSS_PATH}web/font-awesome.css">
+<link rel="stylesheet" href="{CSS_PATH}web/style.css">
+<link rel="stylesheet" href="{CSS_PATH}web/settings.css">
+<link rel="stylesheet" href="{CSS_PATH}web/style_1.css">
+<link rel="stylesheet" href="{CSS_PATH}web/theme-elements.css">
+<script type="text/javascript" src="{JS_PATH}web/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="{JS_PATH}web/modernizr.js"></script>
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="{CSS_PATH}web/ie8.css">
+<script src="{JS_PATH}web/respond.src.js"></script>
+<![endif]-->
+</head>
+<body class="index">
+<h1 class="top-h1" style="margin-top:-80px;">{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}</h1>
+<!-- preload loaders -->
+<div id="loading">
+    <div class="spinner" style="display: block">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+    </div>
+</div>
+<header id="header" class="default">
+	<nav class="navbar">
+        <div class="container desktop-navbar">
+            <a class="logo" href="{siteurl($siteid)}/" title="{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}">
+				<img src="{IMG_PATH}v9/logo.png" alt="{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}">
+			</a>
+			<tel class="col-xs-hidden" style="font-size:18px;padding:5px;margin-left: 10px;color:white;">4009283968</tel>
+			{pc:content action="category" catid="0" num="9" siteid="$siteid" order="listorder ASC"}
+            <ul id="main-menu" class="custom carret">
+            	<li class="cat-home"><a class="topmenu" title="{$SEO['site_title']}" href="{siteurl($siteid)}">首页</a></li>
+				{loop $data $r}
+            	<li class="cat-11"><a class="topmenu" href="{if $r[modelid]==0 && $r[child]==1}javascript:;{else}{$r[url]}{/if}">{$r[catname]}</a>
+					{if $r[child]==1}
+                	<ul class="submenu">
+						{pc:content action="category" catid="$r[catid]" num="15" siteid="$siteid" order="listorder ASC" return="data2"}
+						{loop $data2 $c2} 
+                    	<li><a href="{$c2[url]}">{$c2[catname]}</a></li>
+						{/loop}
+						{/pc}
+                	</ul>
+					{/if}
+            	</li>
+				{/loop}
+            </ul>
+			{/pc}
+        </div><!-- .desktop-navbar -->
+        <div class="container mobile-navbar">
+            <a class="logo" href="{siteurl($siteid)}/" title="{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}"><img src="{IMG_PATH}v9/logo.png" alt="{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}"></a>
+            <ul class="mobile-btn">
+                <li><a class="btn-navbar" href="javascript:void(0);"><span class="fa fa-reorder"></span></a></li>
+            </ul>
+        </div><!-- .mobile-navbar -->
+    </nav><!-- .navbar -->
+    <nav id="mobile-menu"></nav>
+</header>

@@ -1,0 +1,66 @@
+{template "content","header"}
+<aside id="page-header" class="page-header-image page-header-medium" style="background-image:url({IMG_PATH}web/page_banner_002.jpg)">
+	<div class="page-header-inner">
+        <div class="page-header-content">
+            <div class="container">
+            	<h1 class="hide-to-left" style="position: relative; opacity: 1; right: 0px;">{$CATEGORYS[$catid]['catname']}</h1>
+                <p class="hide-to-right lead" style="position: relative; opacity: 1; left: 0px;">{$CATEGORYS[$catid]['description']}</p>
+            </div>
+        </div>
+    </div>
+    <div class="breadcrumbs hide-to-bottom" style="position: relative; opacity: 1; top: 0px;">
+        <div class="container">
+            <ul>
+                <li><a href="{siteurl($siteid)}/" class="home"></a></li>
+                <li><a href="{$CATEGORYS[$catid]['url']}">{$CATEGORYS[$catid]['catname']} </a></li>
+				<li>正文</li>
+			</ul>
+        </div>
+	</div><!-- .breadcrumbs -->
+</aside>
+<div id="page-content" role="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<div id="content">
+					<header class="devider-bottom devider-margin-medium">
+						<h1>{$title}</h1>
+					</header>
+					<article class="post post-single post-type-text">
+						<div class="post-content">
+							<div class="post-detail">
+								<div class="text">
+                                	{$content}
+								<div>
+							</div><!-- .content-right -->
+						</div><!-- .post-content -->
+					</article><!-- .post -->
+				</div><!-- #content -->
+			</div><!-- .col-md-9 -->
+			<div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
+			<script>if(screen.width<750){$('#sidebar').hide();}</script>
+				<div class="sidebar" id="sidebar-right">
+                    <div class="widget devider-margin-medium">
+                        <div class="widget-heading">
+                            <div class="title title-main">
+                                <h5>{$CATEGORYS[$top_parentid][catname]}</h5>
+                            </div>
+                        </div>
+						
+                        <div class="widget-content">
+                            <div class="nav">
+                                <ul>
+									{loop $arrchild_arr $cid}
+									<li class="cat-7"><a href="{$CATEGORYS[$cid][url]}">{$CATEGORYS[$cid][catname]}</a></li>
+									{/loop}
+                                </ul>
+                            </div><!-- .nav -->
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div><!-- .row -->
+	</div><!-- .container -->
+</div>
+<script language="JavaScript" src="{JS_PATH}web/api.js"></script>
+{template "content","footer"}
