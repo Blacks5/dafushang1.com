@@ -35,7 +35,7 @@ data-speed="1000"
 data-start="1000"
 data-easing="Power3.easeInOut"
 data-endspeed="300"
-style="color:#0561a0">了解更多 4009283968</a>
+style="color:#0561a0">了解更多</a>
         </li>
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
             <img src="<?php echo IMG_PATH;?>picture/slide2.jpg" alt="云管理平台"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
@@ -58,7 +58,7 @@ style="color:#0561a0">了解更多 4009283968</a>
    data-start="1000"
    data-easing="Power3.easeInOut"
    data-endspeed="300"
-   style="color:#0561a0">了解更多 4009283968</a>        </li>
+   style="color:#0561a0">了解更多</a>        </li>
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
             <img src="<?php echo IMG_PATH;?>picture/slide3.jpg" alt="云管理平台"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
             <!-- LAYER NR. 1 -->
@@ -98,7 +98,7 @@ style="color:#0561a0">了解更多 4009283968</a>
    data-start="500"
    data-easing="Back.easeInOut"
    data-endspeed="300"
-   style="color:#0561a0">查看详细 4009283968
+   style="color:#0561a0">查看详细
 </a>        </li>
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
             <img src="<?php echo IMG_PATH;?>picture/slide4.jpg" alt="云管理平台"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
@@ -132,7 +132,7 @@ style="color:#0561a0">了解更多 4009283968</a>
    data-start="1000"
    data-easing="Power3.easeInOut"
    data-endspeed="300"
-   style="color:#0561a0">查看更多 4009283968
+   style="color:#0561a0">查看更多
 </a>        </li>
     </ul>
     <div class="tp-bannertimer tp-bottom"></div>
@@ -144,7 +144,7 @@ style="color:#0561a0">了解更多 4009283968</a>
     <div id="content">
 	    <div class="title title-section">
 		    <h3>中心优势</h3>
-            <div class="title"><h4><a href="javascript:void(0);" title="联系电话">联系电话:4009283968</a></h4></div>
+            <!-- @<div class="title"><h4><a href="javascript:void(0);" title="联系电话">联系电话:4009283968</a></h4></div> -->
 	    </div>
 
             <div class="row">
@@ -213,7 +213,7 @@ style="color:#0561a0">了解更多 4009283968</a>
 			
             <div class="col-sm-6 animation animation-grow">
                 <div class="accordion">
-					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=a241a9ccf932a6f5751c71df345c3e2c&action=lists&catid=17&order=id+DESC&num=3&page=1\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$pagesize = 3;$page = intval(1) ? intval(1) : 1;if($page<=0){$page=1;}$offset = ($page - 1) * $pagesize;$content_total = $content_tag->count(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));$pages = pages($content_total, $page, $pagesize, $urlrule);$data = $content_tag->lists(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));}?>
+					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=a241a9ccf932a6f5751c71df345c3e2c&action=lists&catid=17&order=id+DESC&num=3&page=1\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$pagesize = 3;$page = intval(1) ? intval(1) : 1;if($page<=0){$page=1;}$offset = ($page - 1) * $pagesize;$content_total = $content_tag->count(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));$pages = pages($content_total, $page, $pagesize, $urlrule);$data = $content_tag->lists(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));}?>
 					<?php $n=1;if(is_array($data)) foreach($data AS $r) { ?>
                     <div class="text-list">
                         <div class="accordion-heading">
@@ -227,7 +227,7 @@ style="color:#0561a0">了解更多 4009283968</a>
 			
             <div class="col-sm-6 animation animation-grow">
                 <div class="accordion">
-                    <?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=321538eda98e5695f8e345c44382244d&action=lists&catid=17&order=id+DESC&num=3&page=2\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$pagesize = 3;$page = intval(2) ? intval(2) : 1;if($page<=0){$page=1;}$offset = ($page - 1) * $pagesize;$content_total = $content_tag->count(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));$pages = pages($content_total, $page, $pagesize, $urlrule);$data = $content_tag->lists(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));}?>
+                    <?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=321538eda98e5695f8e345c44382244d&action=lists&catid=17&order=id+DESC&num=3&page=2\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$pagesize = 3;$page = intval(2) ? intval(2) : 1;if($page<=0){$page=1;}$offset = ($page - 1) * $pagesize;$content_total = $content_tag->count(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));$pages = pages($content_total, $page, $pagesize, $urlrule);$data = $content_tag->lists(array('catid'=>'17','order'=>'id DESC','limit'=>$offset.",".$pagesize,'action'=>'lists',));}?>
 					<?php $n=1;if(is_array($data)) foreach($data AS $r) { ?>
                     <div class="text-list">
                         <div class="accordion-heading">
@@ -252,7 +252,7 @@ style="color:#0561a0">了解更多 4009283968</a>
                     <li><a href="javascript:void(0);" class="btn btn-light btn-icon-next next"></a></li>
                 </ul>
                 <div class="carousel" data-visible="3">
-					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=dfd647767f43932c1a24071fc389cd97&action=lists&catid=16&where=thumb%21%3D%27%27&order=id+DESC&num=10\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$data = $content_tag->lists(array('catid'=>'16','where'=>'thumb!=\'\'','order'=>'id DESC','limit'=>'10',));}?>
+					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=dfd647767f43932c1a24071fc389cd97&action=lists&catid=16&where=thumb%21%3D%27%27&order=id+DESC&num=10\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$data = $content_tag->lists(array('catid'=>'16','where'=>'thumb!=\'\'','order'=>'id DESC','limit'=>'10',));}?>
 					<?php $n=1;if(is_array($data)) foreach($data AS $r) { ?>
                     <article class="post post-latest post-type-text">
                         <div class="post-heading">
@@ -342,7 +342,7 @@ style="color:#0561a0">了解更多 4009283968</a>
         <div class="container-out blog-posts">
         	<div class="container">
             	<div class="row">
-					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=2e6d973f17d0409af6b996c39bc13427&action=lists&catid=18&order=id+DESC&num=3\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$data = $content_tag->lists(array('catid'=>'18','order'=>'id DESC','limit'=>'3',));}?>
+					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"content\" data=\"op=content&tag_md5=2e6d973f17d0409af6b996c39bc13427&action=lists&catid=18&order=id+DESC&num=3\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$content_tag = pc_base::load_app_class("content_tag", "content");if (method_exists($content_tag, 'lists')) {$data = $content_tag->lists(array('catid'=>'18','order'=>'id DESC','limit'=>'3',));}?>
 					<?php $n=1;if(is_array($data)) foreach($data AS $r) { ?>
                 	<div class="col-md-4 animation animation-grow" style="transition-delay: {($n-1)*100}ms;">
                     	<div class="panel panel-default">
@@ -384,7 +384,7 @@ style="color:#0561a0">了解更多 4009283968</a>
                     <li><a href="javascript:void(0);" class="btn btn-light btn-icon-next next"></a></li>
                 </ul>
                 <div class="clients carousel" data-visible="4">
-					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"link\" data=\"op=link&tag_md5=27565197054ebc1d2814007e21bbdc56&action=type_list&siteid=1&linktype=1&order=listorder+DESC&num=8&return=pic_link\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">修改</a>";}$link_tag = pc_base::load_app_class("link_tag", "link");if (method_exists($link_tag, 'type_list')) {$pic_link = $link_tag->type_list(array('siteid'=>'1','linktype'=>'1','order'=>'listorder DESC','limit'=>'8',));}?>
+					<?php if(defined('IN_ADMIN')  && !defined('HTML')) {echo "<div class=\"admin_piao\" pc_action=\"link\" data=\"op=link&tag_md5=27565197054ebc1d2814007e21bbdc56&action=type_list&siteid=1&linktype=1&order=listorder+DESC&num=8&return=pic_link\"><a href=\"javascript:void(0)\" class=\"admin_piao_edit\">编辑</a>";}$link_tag = pc_base::load_app_class("link_tag", "link");if (method_exists($link_tag, 'type_list')) {$pic_link = $link_tag->type_list(array('siteid'=>'1','linktype'=>'1','order'=>'listorder DESC','limit'=>'8',));}?>
 					<?php $n=1;if(is_array($pic_link)) foreach($pic_link AS $v) { ?>
                 	<div class="client">
                         <a href="<?php echo $v['url'];?>" title="" rel="nofollow" target="_blank"><img src="<?php echo $v['logo'];?>" alt="<?php echo $v['name'];?>" title="<?php echo $v['name'];?>" style="max-width:145px; max-height:60px;" /></a>

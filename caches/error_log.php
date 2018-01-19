@@ -13866,3 +13866,686 @@
 <?php exit;?>09-11 16:21:12 | 2 | Illegal string offset 'height:' | phpcms/libs/classes/segment.class.php | 345
 <?php exit;?>09-11 16:21:12 | 2 | Illegal string offset '/span'  | phpcms/libs/classes/segment.class.php | 345
 <?php exit;?>09-11 16:21:12 | 2 | Illegal string offset '/p'     | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-23 00:22:36 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-23 00:22:36 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-23 00:22:36 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-23 00:22:36 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-23 00:22:36 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-23 00:22:36 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-23 00:22:36 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-23 00:22:36 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-23 00:22:36 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-24 00:12:16 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-24 00:12:16 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-24 00:12:16 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-24 00:12:16 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-24 00:12:16 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-24 00:12:16 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-24 00:12:16 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-24 00:12:16 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-24 00:12:16 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-25 05:07:06 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-25 05:07:06 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-25 05:07:06 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-25 05:07:06 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-25 05:07:06 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-25 05:07:06 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-25 05:07:06 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-25 05:07:06 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-25 05:07:06 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-26 11:01:12 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-26 11:01:12 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-26 11:01:12 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-26 11:01:12 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-26 11:01:12 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-26 11:01:12 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-26 11:01:12 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>09-26 11:01:12 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>09-26 11:01:12 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '央行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '报告'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融监管' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '政策'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '取向'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '目前'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '部分'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融产品' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '具有'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '系统'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '重要性' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '影响'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '需要'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '防范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '周期'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '波动'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '风险'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '市场'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '传染'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '央行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '日前'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发布'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '区域'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '运行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '报告'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '...'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'span'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '目前'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '部分'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融产品' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '具有'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '系统'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '重要性' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '影响'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '需要'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '防范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '周期'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '波动'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '风险'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '市场'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '传染'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '央行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '日前'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发布'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '区域'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '运行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '报告'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '其中'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '专题'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '文章'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '促进'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '创新'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '透露'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融监管' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '的政策' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '取向'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/span'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '该报告' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '中国人民银行' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '货币政策' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '分析'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '小组'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '编写'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '报告'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '相关'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '部门'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规模较大' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '具有'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '系统'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '重要性' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '特征'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融业务' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '纳入'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '宏观'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '审慎'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '管理'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '框架'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '进行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '宏观'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '审慎'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '评估'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '防范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '系统性风险' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '去年'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '全国'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '省市'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '开展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融风险' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '专项整治' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '工作'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '重点'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'P2P'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '网络'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '借贷'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '股权'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '业务'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '通过'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '开展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '资产管理' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '跨界'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '从事'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融业务' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '第三方' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '支付'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '业务'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融领域' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '广告'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '开展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '专项'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '集中'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '整治'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '促进'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '创新'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '篇文章' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '指出'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '经过'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '阶段'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '整治'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '工作'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '有效'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '推进'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '目前'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融风险' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '总体'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '可控'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '行业'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '逐步'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '实现'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '专项整治' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '工作'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '推动'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '部分'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '平台'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '主动'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '退出'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '经营'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '停业'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '整改'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '部分'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '合法'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '平台'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '逐步'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '清理'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '尤其'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '随着'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '部分政策' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '逐步'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '落地'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '监管'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '工作'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '有序'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '开展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '平台'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '运营'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范性' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '透明'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '有所'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '提高'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '历经'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '行业'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&ldquo' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '洗牌'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&rdquo' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '之后'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '一些'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '创新'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '平台'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '脱颖而出' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '逐步'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '走上'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '道路'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '对于'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融监管' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '阶段'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '工作'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '文章'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '建言'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '专项整治' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '契机'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '建立'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '健全'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '法律法规' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '体系'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '完善'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融监管' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '机制'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '加强'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '自律'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '约束'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '消费者权益' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '保护'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '机制'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '建设'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '营造'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '鼓励'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '创新'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '运作'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '有序'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '竞争'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '服务'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '实体'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融发展' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '局面'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '进一步' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发挥'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '支持经济' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '社会发展' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '积极'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '作用'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '首先'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '加快'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '完善'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '安全'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '方面'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '的政策' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '体系'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '建立'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '技术'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '行业'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '国家标准' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '制定'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融领域' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融数据' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '安全'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '使用'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '管理办法' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '构建'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '维护'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '安全'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '技术'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '体系'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '其次'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '按照'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&ldquo' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '分类'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '控制'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '管理'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&rdquo' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '原则'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '加强监管' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '协调'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '联动'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '建立'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '健全'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '准入'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '退出'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '机制'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '运行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '健康'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '发展'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '提供'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '制度'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '保障'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '同时'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '充分发挥' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '协会'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '地方'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '协会'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '作用'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '强化'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '行业'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '自律'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '管理'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '搭建'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '统一'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '公开'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '信息'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '披露'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '平台'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '构建'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '商业银行' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '作为'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '第三方' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '资金'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '托管'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '机制'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '进一步' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '完善'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '消费'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '权益'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '保护'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '体系'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '切实'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '加强'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融投资者' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '权益'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '保护'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'div'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'word-wrap:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'break-word' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'margin:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'padding:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'color:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'rgb'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-family:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&quot'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'microsoft' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'yahei&quot' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'font-size:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '此外'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '加快'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '科技'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融服务' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '应用'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融服务' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '更多'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '领域'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '提升'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融服务' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '效率'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '推进'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融发展' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '探索'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '规模较大' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '具有'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '系统'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '重要性' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '特征'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '互联网' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '金融业务' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '纳入'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '宏观'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '审慎'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '管理'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '框架'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '进行'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '宏观'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '审慎'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '评估'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '防范'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '系统性风险' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'br'     | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'br'     | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '&nbsp'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'img'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'alt'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'src'    | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'http://www.dafushang1.com/uploadfile/2017/0926/20170926110112155.jpg' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'style'  | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'width:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset 'height:' | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:31 | 2 | Illegal string offset '/div'   | phpcms/libs/classes/segment.class.php | 345
+<?php exit;?>09-26 11:01:24 | 2 | fsockopen(): unable to connect to tool.phpcms.cn:80 (Connection timed out) | phpcms/libs/classes/http.class.php | 84
+<?php exit;?>10-11 17:42:48 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-11 17:42:48 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-11 17:42:48 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-11 17:42:48 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-11 17:42:48 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-11 17:42:48 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-11 17:42:48 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-11 17:42:48 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-11 17:42:48 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-12 07:22:05 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-12 07:22:05 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-12 07:22:05 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-12 07:22:05 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-12 07:22:05 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-12 07:22:05 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-12 07:22:05 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-12 07:22:05 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-12 07:22:05 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-13 02:17:42 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-13 02:17:42 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-13 02:17:42 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-13 02:17:42 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-13 02:17:42 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-13 02:17:42 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-13 02:17:42 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-13 02:17:42 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-13 02:17:42 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-14 00:57:41 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-14 00:57:41 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-14 00:57:41 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-14 00:57:41 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-14 00:57:41 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-14 00:57:41 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-14 00:57:41 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-14 00:57:41 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-14 00:57:41 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-16 16:28:06 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-16 16:28:06 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-16 16:28:06 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-16 16:28:06 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-16 16:28:06 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-16 16:28:06 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-16 16:28:06 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-16 16:28:06 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-16 16:28:06 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-17 02:22:52 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-17 02:22:52 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-17 02:22:52 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-17 02:22:52 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-17 02:22:52 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-17 02:22:52 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>10-17 02:22:52 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>10-17 02:22:52 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>10-17 02:22:52 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-27 03:05:29 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-27 03:05:29 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-27 03:05:29 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-27 03:05:29 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-27 03:05:29 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-27 03:05:29 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-27 03:05:29 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-27 03:05:29 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-27 03:05:29 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-28 18:30:26 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-28 18:30:26 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-28 18:30:26 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-28 18:30:26 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-28 18:30:26 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-28 18:30:26 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-28 18:30:26 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-28 18:30:26 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-28 18:30:26 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-30 22:05:18 | 2 | is_dir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-30 22:05:18 | 2 | mkdir(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-30 22:05:18 | 2 | chmod(): open_basedir restriction in effect. File(/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-30 22:05:18 | 2 | is_dir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-30 22:05:18 | 2 | mkdir(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-30 22:05:18 | 2 | chmod(): open_basedir restriction in effect. File(/home/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
+<?php exit;?>12-30 22:05:18 | 2 | is_dir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 29
+<?php exit;?>12-30 22:05:18 | 2 | mkdir(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 30
+<?php exit;?>12-30 22:05:18 | 2 | chmod(): open_basedir restriction in effect. File(/home/wwwroot/) is not within the allowed path(s): (/home/wwwroot/xiao.dy-hh.com:/tmp/:/proc/) | phpcms/libs/functions/dir.func.php | 31
